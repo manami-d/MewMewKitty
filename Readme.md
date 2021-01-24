@@ -1,5 +1,6 @@
 ## Mew Kitty Challenge
-This is a challenge to help learners of JS target DOM nodes, use keyboard events, and learn about parseInt
+This is a challenge to help learners of JS target DOM nodes, use keyboard events, and learn about parseInt.
+
 Current working version: [https://mewmewkitty.netlify.app/](https://mewmewkitty.netlify.app/)
 
 
