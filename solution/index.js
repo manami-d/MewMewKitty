@@ -35,9 +35,9 @@ function checkKey(e){
     }
     // jumps
     else if (e.keyCode == '32') {
-        cat.classList.add("bouncy")
+        cat.classList.add("bounce")
         setTimeout(() => {
-            cat.classList.remove("bouncy")
+            cat.classList.remove("bounce")
         }, 1200);
     }
 }
